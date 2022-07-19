@@ -1,7 +1,5 @@
 *NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
-![automl-complete2](https://user-images.githubusercontent.com/109334615/179766704-e3875f67-a5ac-4fda-8097-2cb83e234ad9.PNG)
-
 # Project: Operationalizing Machine Learning
 
 First part of the project would involve training models using Azure AutoML with the Bank Marketing Dataset. Thereafter the best model will be deployed with an endpoint to be consumed using Swagger and Python requests. Next, using the same dataset, a AutoML pipeline will be created, published and consumed using Python requests. 
@@ -56,7 +54,4 @@ First part of the project would involve training models using Azure AutoML with 
 ![scheduled_run_this](https://user-images.githubusercontent.com/109334615/179768834-f7a83511-cbbc-4837-b27e-4e7257b27dd1.PNG)
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+Screencast link: https://youtu.be/GMmWXOYv4PM
