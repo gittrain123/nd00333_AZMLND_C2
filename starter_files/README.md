@@ -55,3 +55,6 @@ First part of the project would involve training models using Azure AutoML with 
 
 ## Screen Recording
 Screencast link: https://youtu.be/GMmWXOYv4PM
+
+## Project Improvement
+A possible project improvement could be to include more steps into the pipeline as the pipeline currently only has 1 automl step. Could include data preparation steps in the pipeline as well.
